@@ -19,4 +19,4 @@ I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arjunb79&show_icons=true&locale=en" alt="Arjunb79" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunb79&" alt=Arjunb79" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="Arjunb79" alt="Arjunb79" /></p>
